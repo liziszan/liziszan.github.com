@@ -12,8 +12,6 @@ comments: yes
 
 # 组织
 
-- [统计之都](http://cos.name) 国内的统计学网站先驱
-
 # 软件
 
 
