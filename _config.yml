@@ -1,0 +1,9 @@
+#markdown: rdiscount
+markdown: kramdown
+permalink: /:year/:month/:title/
+title: 为生命加油-在路上
+url: http://liziszan.github.io
+author: Zan LI
+pygments: true
+paginate: 20
+images_url: http://wzgtech.qiniudn.com/images
